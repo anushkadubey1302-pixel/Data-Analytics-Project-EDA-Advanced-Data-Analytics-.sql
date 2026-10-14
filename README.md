@@ -68,8 +68,6 @@ SQL-Data-Analysis-Project/
 └── LICENSE             # Project license
 ```
 
-*Note: The repository structure above is a suggested organization. Adjust the filenames and folders to match your actual repository.*
-
 ## 🚀 Project Outcomes
 
 This project demonstrates the practical application of SQL for business data exploration, analytical problem-solving, and advanced analysis. It transforms business data into meaningful insights that help explain customer behavior, product performance, and sales trends.
